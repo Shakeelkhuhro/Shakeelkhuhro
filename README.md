@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakeelkhuhro" alt="shakeelkhuhro" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/shakeel786_110?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/imshakeelkhuhro?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
 
 - 🌱 I’m currently learning **React and Next JS**
 
