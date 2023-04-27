@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakeelkhuhro" alt="shakeelkhuhro" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shakeel786_110" target="blank"><img src="https://img.shields.io/twitter/follow/shakeel786_110?logo=twitter&style=for-the-badge" alt="shakeel786_110" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/shakeel786_110?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
 
 - 🌱 I’m currently learning **React and Next JS**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shakeel786_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakeel786_110" height="30" width="40" /></a>
+<a href="https://twitter.com/imshakeelkhuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imshakeelkhuhro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakeelkhuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakeelkhuhro" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18335272/shakeel-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18335272/shakeel-ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100034519396811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100034519396811" height="30" width="40" /></a>
