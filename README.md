@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **React and Next JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shakeelkhuhro](https://github.com/Shakeelkhuhro)
+- 👨‍💻 All of my projects are available here: [Portfolio](https://shakeelkhuhro.github.io/Shakeel-Khuhro/)
 
-- 📝 I regularly write articles on [https://medium.com/@shakeelahmedkhuhro5454](https://medium.com/@shakeelahmedkhuhro5454)
+- 📝 I regularly write articles on [Medium](https://medium.com/@shakeelahmedkhuhro5454)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **https://wa.me/message/HPU7ORI6TC2XL1**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shakeelkhuhro/](https://www.linkedin.com/in/shakeelkhuhro/)
+- 📄 Know about my experiences [Shakeel Khuhro](https://www.linkedin.com/in/shakeelkhuhro/)
 
-- ⚡ Fun fact **Programing is all about Fun**
+- ⚡ Fun fact **Programming is all about Fun**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
