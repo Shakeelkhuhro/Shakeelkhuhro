@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📫 How to reach me **https://wa.me/message/HPU7ORI6TC2XL1**
+- 📫 How to reach me **[WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)**
 
 - 📄 Know about my experiences [Shakeel Khuhro](https://www.linkedin.com/in/shakeelkhuhro/)
 
