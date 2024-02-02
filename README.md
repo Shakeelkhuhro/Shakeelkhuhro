@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakeel khuhro</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Cloud Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeelkhuhro&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelkhuhro" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/imshakeelkhuhro?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
 
-- 🌱 I’m currently learning **React and Next JS**
+- 🌱 I’m currently learning **Cloud with Azure**
 
 - 👨‍💻 All of my projects are available here: [Portfolio](https://shakeelkhuhro.github.io/Shakeel-Khuhro/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shakeelahmedkhuhro5454)
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Cloud**
 
 - 📫 How to reach me **[WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)**
 
 - 📄 Know about my experiences [Shakeel Khuhro](https://www.linkedin.com/in/shakeelkhuhro/)
 
-- ⚡ Fun fact **Programming is all about Fun**
+- ⚡ Fun fact about me **I remain in silent mode until my words are summoned for a grand entrance!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
