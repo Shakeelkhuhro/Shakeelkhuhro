@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/imshakeelkhuhro?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud with Azure**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available here: [Portfolio](https://shakeelkhuhro.github.io/Shakeel-Khuhro/)
 
