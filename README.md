@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shakeelahmedkhuhro5454)
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **Cloud and Azure**
 
 - 📫 How to reach me **[WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)**
 
