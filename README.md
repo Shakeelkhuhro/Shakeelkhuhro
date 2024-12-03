@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/imshakeelkhuhro" target="blank"><img src="https://img.shields.io/twitter/follow/imshakeelkhuhro?logo=twitter&style=for-the-badge" alt="imshakeelkhuhro" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available here: [Portfolio](https://shakeelkhuhro.github.io/Shakeel-Khuhro/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shakeelahmedkhuhro5454)
 
-- 💬 Ask me about **Cloud and Azure**
+- 💬 Ask me about **Cloud and DevOps**
 
 - 📫 How to reach me **[WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)**
 
