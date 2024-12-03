@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakeel khuhro</h1>
-<h3 align="center">A passionate Cloud Engineering Enthusiast from Pakistan</h3>
+<h3 align="center">A passionate DevSecOps Enthusiast from Khairpur Mir's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeelkhuhro&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelkhuhro" /> </p>
 
