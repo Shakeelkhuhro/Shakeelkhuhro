@@ -63,7 +63,7 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
 ### 📌 Pinned Projects
 
 <a href="https://github.com/Shakeelkhuhro/PolicyLens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=PolicyLens&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=PrivacyLens&theme=default" />
 </a>
 
 <a href="https://github.com/Shakeelkhuhro/Get2Gather">
