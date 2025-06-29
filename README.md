@@ -74,8 +74,8 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
 
 ### 🏅 Certifications
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-DevOps-blue?logo=microsoft)](https://learn.microsoft.com/users/your-id)
-[![CCNA Certified](https://img.shields.io/badge/CCNA%20Enterprise-Certified-blue?logo=cisco)](https://example.com/certificate-link)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-DevOps-blue?logo=microsoft)]
+[![CCNA Certified](https://img.shields.io/badge/CCNA%20Enterprise-Certified-blue?logo=cisco)]
 
 ---
 
