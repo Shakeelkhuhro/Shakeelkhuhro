@@ -1,0 +1,16 @@
+name: Update Medium Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:      # manual trigger
+
+jobs:
+  update:
+    name: Blog Posts Updater
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@Shakeelkhuhro"
