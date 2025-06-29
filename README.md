@@ -49,7 +49,7 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Sindh, Pakistan, with hands-on
 
 #### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" />
