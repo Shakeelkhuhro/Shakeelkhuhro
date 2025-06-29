@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakeel Khuhro</h1>
-<h3 align="center">DevSecOps | Cloud Enthusiast | Tech Community Advocate</h3>
+<h3 align="center">DevSecOps | Tech Community Advocate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakeelkhuhro&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelkhuhro" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experience in cloud technologies, CI/CD pipelines, automation, and open-source development. I enjoy building secure and scalable systems, and advocating for tech learning in my community.
+I’m a DevSecOps enthusiast from Khairpur Mir's, Sindh, Pakistan, with hands-on experience in cloud technologies, CI/CD pipelines, automation, and open-source development. I enjoy building secure and scalable systems, as well as advocating for tech education in my community.
 
 ---
 
@@ -17,7 +17,7 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
 
 - 🌱 Currently learning **Docker, Kubernetes, Terraform, GitHub Actions**
 - 👨‍💻 Building cloud-native and serverless applications
-- ✍️ Writing technical blogs on [Medium](https://medium.com/@shakeelahmedkhuhro5454)
+- ✍️ Writing technical blogs on [Medium](https://medium.com/@shakeelkhuhro)
 - 📫 Reach me directly on [WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)
 
 ---
@@ -62,12 +62,12 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
 
 ### 📌 Pinned Projects
 
-<a href="https://github.com/Shakeelkhuhro/PolicyLens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=PrivacyLens&theme=default" />
+<a href="[https://github.com/Shakeelkhuhro/PrivacyLens](https://github.com/Shakeelkhuhro/DevOps)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=DevOps&theme=default" />
 </a>
 
-<a href="https://github.com/Shakeelkhuhro/Get2Gather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=Get2Gather&theme=default" />
+<a href="[https://github.com/Shakeelkhuhro/Get2Gather](https://github.com/Shakeelkhuhro/go-web-app)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakeelkhuhro&repo=go-web-app&theme=default" />
 </a>
 
 ---
@@ -108,8 +108,8 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
   <a href="https://linkedin.com/in/shakeelkhuhro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/18335272/shakeel-ahmed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://fb.com/profile.php?id=100034519396811" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/iamshakeelkhuhro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@shakeelahmedkhuhro5454" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/iamshaakiii" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@shakeelkhuhro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/shakeelkhuhro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
 
@@ -117,6 +117,6 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Pakistan with hands-on experie
 
 ### ⚡ Fun Fact
 
-**“I remain in silent mode until my words are summoned for a grand entrance!”**
+**“I stay silent until it's time to deliver signal, not noise!”**
 
 ---
