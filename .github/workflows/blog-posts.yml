@@ -2,15 +2,26 @@ name: Update Medium Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:      # manual trigger
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
 
 jobs:
-  update:
-    name: Blog Posts Updater
+  update-blog:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@Shakeelkhuhro"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Update README with latest Medium posts" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
