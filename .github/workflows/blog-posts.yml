@@ -2,17 +2,17 @@ name: Update Medium Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'        # hourly
+    - cron: '0 0 * * *'        # daily
   workflow_dispatch:
 
-permissions:               # token write access
-  contents: write
+permissions:
+  contents: write              # built‑in GITHUB_TOKEN to push
 
 jobs:
   update-blog:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3   # keep credentials (default = true)
+      - uses: actions/checkout@v3
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
