@@ -82,11 +82,11 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Sindh, Pakistan, with hands-on
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shakeel Khuhro — DevOps &amp; Cloud Engineer | GitHub Campus Expert | Microsoft Certified |…](https://medium.com/@Shakeelkhuhro/shakeel-khuhro-devops-cloud-engineer-github-campus-expert-microsoft-certified-5f887031834c?source=rss-c88162bccbf------2)
 - [Azure Virtual Machines: A Step-by-Step Guide](https://medium.com/@Shakeelkhuhro/azure-virtual-machines-a-step-by-step-guide-e751afeaa41e?source=rss-c88162bccbf------2)
 - [Unlocking the World of Software Development: Methods and Tools](https://medium.com/@Shakeelkhuhro/unlocking-the-world-of-software-development-methods-and-tools-6ea428783a2e?source=rss-c88162bccbf------2)
 - [The Power of Attitude: Your Window to the World](https://medium.com/@Shakeelkhuhro/the-power-of-attitude-your-window-to-the-world-7b401ef162b4?source=rss-c88162bccbf------2)
 - [Uber: The Ride-Hailing Innovation — A Disruptive Platform](https://medium.com/@Shakeelkhuhro/uber-5cd246d0185?source=rss-c88162bccbf------2)
-- [Becoming a Microsoft Learn Student Ambassador &lpar;MLSA&rpar; — Your Path to Empowerment and Growth](https://medium.com/@Shakeelkhuhro/becoming-a-microsoft-learn-student-ambassador-mlsa-your-path-to-empowerment-and-growth-aad0788cb0f9?source=rss-c88162bccbf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
