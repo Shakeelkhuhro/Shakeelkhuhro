@@ -18,7 +18,6 @@ I’m a DevSecOps enthusiast from Khairpur Mir's, Sindh, Pakistan, with hands-on
 - 🌱 Currently learning **Docker, Kubernetes, Terraform, GitHub Actions**
 - 👨‍💻 Building cloud-native and serverless applications
 - ✍️ Writing technical blogs on [Medium](https://medium.com/@shakeelkhuhro)
-- 📫 Reach me directly on [WhatsApp](https://wa.me/message/HPU7ORI6TC2XL1)
 
 ---
 
