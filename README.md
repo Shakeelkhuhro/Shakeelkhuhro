@@ -100,11 +100,11 @@ I’m also a **Microsoft Learn Student Ambassador (Gold)** and **GitHub Campus E
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-* [Hacktoberfest 2025: Start Your Open Source Journey](https://medium.com/@Shakeelkhuhro/hacktoberfest-2025-start-your-open-source-journey-with-open-source-playground-891fa7240ac4)
-* [Azure Virtual Machines: A Step-by-Step Guide](https://medium.com/@Shakeelkhuhro/azure-virtual-machines-a-step-by-step-guide-e751afeaa41e)
-* [DevOps & Cloud Engineering: My Journey So Far](https://medium.com/@Shakeelkhuhro/shakeel-khuhro-devops-cloud-engineer-github-campus-expert-microsoft-certified-5f887031834c)
-
+- [Hacktoberfest 2025: Start Your Open Source Journey with Open-Source-Playground](https://medium.com/@Shakeelkhuhro/hacktoberfest-2025-start-your-open-source-journey-with-open-source-playground-891fa7240ac4?source=rss-c88162bccbf------2)
+- [Shakeel Khuhro — DevOps &amp; Cloud Engineer | GitHub Campus Expert | Microsoft Certified |…](https://medium.com/@Shakeelkhuhro/shakeel-khuhro-devops-cloud-engineer-github-campus-expert-microsoft-certified-5f887031834c?source=rss-c88162bccbf------2)
+- [Azure Virtual Machines: A Step-by-Step Guide](https://medium.com/@Shakeelkhuhro/azure-virtual-machines-a-step-by-step-guide-e751afeaa41e?source=rss-c88162bccbf------2)
+- [Unlocking the World of Software Development: Methods and Tools](https://medium.com/@Shakeelkhuhro/unlocking-the-world-of-software-development-methods-and-tools-6ea428783a2e?source=rss-c88162bccbf------2)
+- [The Power of Attitude: Your Window to the World](https://medium.com/@Shakeelkhuhro/the-power-of-attitude-your-window-to-the-world-7b401ef162b4?source=rss-c88162bccbf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
